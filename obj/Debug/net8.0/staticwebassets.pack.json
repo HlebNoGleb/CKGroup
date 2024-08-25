@@ -1,0 +1,229 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\img\\advantage-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\advantage-bg.jpg"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\img\\advantage-case-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\advantage-case-bg.jpg"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\img\\advantage-case1-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\advantage-case1-bg.jpg"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\img\\advantage-case2-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\advantage-case2-bg.jpg"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\img\\btn-bg.png",
+      "PackagePath": "staticwebassets\\img\\btn-bg.png"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\img\\btn1-bg.png",
+      "PackagePath": "staticwebassets\\img\\btn1-bg.png"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\img\\button-border.svg",
+      "PackagePath": "staticwebassets\\img\\button-border.svg"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\img\\calc-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\calc-bg.jpg"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\img\\case.png",
+      "PackagePath": "staticwebassets\\img\\case.png"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\img\\case2.png",
+      "PackagePath": "staticwebassets\\img\\case2.png"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\img\\case3.png",
+      "PackagePath": "staticwebassets\\img\\case3.png"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\img\\close.svg",
+      "PackagePath": "staticwebassets\\img\\close.svg"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\img\\data-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\data-bg.jpg"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\img\\data-item.png",
+      "PackagePath": "staticwebassets\\img\\data-item.png"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\img\\data-item1.png",
+      "PackagePath": "staticwebassets\\img\\data-item1.png"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\img\\data-item2.png",
+      "PackagePath": "staticwebassets\\img\\data-item2.png"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\img\\data-item3.png",
+      "PackagePath": "staticwebassets\\img\\data-item3.png"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\img\\data-item4.png",
+      "PackagePath": "staticwebassets\\img\\data-item4.png"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\img\\data-item5.png",
+      "PackagePath": "staticwebassets\\img\\data-item5.png"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\img\\data-item6.png",
+      "PackagePath": "staticwebassets\\img\\data-item6.png"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\img\\data-item7.png",
+      "PackagePath": "staticwebassets\\img\\data-item7.png"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\img\\design-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\design-bg.jpg"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\img\\design-item.png",
+      "PackagePath": "staticwebassets\\img\\design-item.png"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\img\\design-item1.png",
+      "PackagePath": "staticwebassets\\img\\design-item1.png"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\img\\design-item2.png",
+      "PackagePath": "staticwebassets\\img\\design-item2.png"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\img\\design-item3.png",
+      "PackagePath": "staticwebassets\\img\\design-item3.png"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\img\\design-item4.png",
+      "PackagePath": "staticwebassets\\img\\design-item4.png"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\img\\design-item5.png",
+      "PackagePath": "staticwebassets\\img\\design-item5.png"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\img\\equipment-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\equipment-bg.jpg"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\img\\equipment-item.png",
+      "PackagePath": "staticwebassets\\img\\equipment-item.png"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\img\\equipment-item1.png",
+      "PackagePath": "staticwebassets\\img\\equipment-item1.png"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\img\\equipment-item2.png",
+      "PackagePath": "staticwebassets\\img\\equipment-item2.png"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\img\\equipment-item3.png",
+      "PackagePath": "staticwebassets\\img\\equipment-item3.png"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\img\\form-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\form-bg.jpg"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\img\\form1-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\form1-bg.jpg"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\img\\header-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\header-bg.jpg"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\img\\hosting-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\hosting-bg.jpg"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\img\\hosting-item.png",
+      "PackagePath": "staticwebassets\\img\\hosting-item.png"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\img\\hosting-item1.png",
+      "PackagePath": "staticwebassets\\img\\hosting-item1.png"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\img\\hosting-item2.png",
+      "PackagePath": "staticwebassets\\img\\hosting-item2.png"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\img\\hosting-item3.png",
+      "PackagePath": "staticwebassets\\img\\hosting-item3.png"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\img\\progress-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\progress-bg.jpg"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\img\\services-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\services-bg.jpg"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\img\\services\\S_01.jpg",
+      "PackagePath": "staticwebassets\\img\\services\\S_01.jpg"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\img\\services\\S_02.jpg",
+      "PackagePath": "staticwebassets\\img\\services\\S_02.jpg"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\img\\services\\S_03.jpg",
+      "PackagePath": "staticwebassets\\img\\services\\S_03.jpg"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\img\\social\\tg.svg",
+      "PackagePath": "staticwebassets\\img\\social\\tg.svg"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\img\\social\\whatsapp.svg",
+      "PackagePath": "staticwebassets\\img\\social\\whatsapp.svg"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\main.js",
+      "PackagePath": "staticwebassets\\main.js"
+    },
+    {
+      "Id": "D:\\glebastas\\CKGroup\\wwwroot\\styles.css",
+      "PackagePath": "staticwebassets\\styles.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CKGroup.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CKGroup.props",
+      "PackagePath": "build\\CKGroup.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CKGroup.props",
+      "PackagePath": "buildMultiTargeting\\CKGroup.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CKGroup.props",
+      "PackagePath": "buildTransitive\\CKGroup.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

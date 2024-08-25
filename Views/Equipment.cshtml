@@ -1,0 +1,63 @@
+﻿@using CKGroup.UmbracoPublishedModels
+@inherits Umbraco.Cms.Web.Common.Views.UmbracoViewPage<CKGroup.UmbracoPublishedModels.Equipment>
+@{
+	Layout = "Master.cshtml";
+	var equipmentItems = Model.EquipmentItems.Select(x => x.Content).OfType<EquipmentItem>();
+}
+
+<main class="main" style="padding-top: 200px">
+@foreach (var equipmentItem in equipmentItems)
+{
+	<p>@equipmentItem.EquipmentItemName</p>
+	var types = equipmentItem.Type.Select(x => x.Content).OfType<EquipmentType>();
+	foreach (var type in types)
+	{
+		<p>@type.EquipmentTypeName</p>
+		<p>@type.Algoritm</p>
+		foreach (var coin in type.Coins)
+		{
+			<p>@coin</p>
+		}
+		<p>@type.Hashrate</p>
+		<p>@type.Potreblenie</p>
+		<p>@type.Price</p>
+		<img src="@type.Image.MediaUrl()?width=500" />
+	}
+}
+</main>
+
+
+<div class="modal">
+	<div class="modal__form">
+		<h2>Заказать продукт</h2>
+		<button class="modal__close" type="button"><img src="./img/close.svg" alt=""></button>
+		<div class="modal__item"><span class="form__title">Ваше имя</span>
+			<input type="text" name="" placeholder="Имя">
+		</div>
+		<div class="modal__item"><span class="form__title">Телефон</span>
+			<input class="phone" type="tel" name="" placeholder="">
+		</div>
+		<div class="modal__item"><span class="form__title"> Продукт</span>
+			<input type="text" name="" placeholder="Bitmain Antminer T21 190 TH/s">
+		</div>
+		<div class="modal__item"><span class="form__title"> Цена</span>
+			<input type="text" name="" placeholder="545 000 ₽">
+		</div>
+		<div class="modal__item">
+			<div class="counter">
+				<button type="button">-</button>
+				<input type="text" name="" value="1">
+				<button type="button">+</button>
+			</div>
+			<button class="btn" type="button">Отправить</button>
+		</div>
+		<p>Продолжая, вы соглашаетесь с политикой конфиденциальности</p>
+	</div>
+</div>
+
+
+
+@* @foreach (var equipmentItem in equipmentItems) *@
+@* { *@
+@* 	@equipmentItem.EquipmentItemName *@
+@* }  *@
